@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 868717639}
   - component: {fileID: 868717638}
   m_Layer: 0
-  m_Name: SimpleMLIntegration
+  m_Name: SimpleExample
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
