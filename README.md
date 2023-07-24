@@ -70,12 +70,6 @@ Refer to the code in `Unity/Assets/UnityMLPySocket/Examples/Scripts/SimpleExampl
 
 > ⚠️ Note: This is a blocking implementation that will block the main Unity thread until a response is received. A multithreaded or coroutine-based solution may be preferred for non-blocking requests.
 
-## Open Source AI Game Jam
-
-Join the upcoming Open Source AI Game Jam where we'll be exploring cutting-edge applications of AI in game development! [Sign up here!](https://itch.io/jam/open-source-ai-game-jam)
-
-[![Open Source AI Game Jam](https://github.com/huggingface/blog/blob/main/assets/145_gamejam/thumbnail.png?raw=true)](https://itch.io/jam/open-source-ai-game-jam)
-
 ## Contributing
 
 Your contributions are greatly appreciated! Please follow these steps:
